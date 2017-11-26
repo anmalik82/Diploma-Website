@@ -2,4 +2,4 @@
 
 Welcome!
 
-This is my first project with code institude!
+This is my first project with code institute!
