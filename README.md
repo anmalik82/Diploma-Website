@@ -1,5 +1,4 @@
-# First project with Code Institute.
+### Programming languages, frameworks, database, and tools for Software Development Course!
 
-Welcome!
+Goodluck Ali!:)
 
-This is my first project with code institute!

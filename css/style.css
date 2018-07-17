@@ -22,12 +22,12 @@ nav li{
     
 nav a{
     text-decoration:none;
-    color:white;
+    color:#fff;
     display:block;
     }
     
 nav a:hover{
-    background-color:white;
+    background-color:#fff;
     color:#4a4a4f;
     }
     
@@ -42,10 +42,42 @@ nav a:hover{
     }
     
 img{
-    width:250px;
-    height:250px;
+    width: 100%;
    }
    
 h1{
     text-align:center;
 }
+
+.logo {
+    margin-top: 50px;
+}
+
+.move {
+    margin-top: 62px;
+}
+
+#large img {
+    margin-top: 100px;
+}
+
+.flask {
+    margin-top: 120px;
+}
+
+.python {
+    margin-top: 40px;
+}
+
+.mysql {
+    margin-top: 115px;
+}
+
+#move img {
+    margin-top: 50px;
+}
+
+.django {
+    margin-top: 120px;
+}
+
